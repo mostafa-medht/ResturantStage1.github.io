@@ -4,11 +4,11 @@ const cacheAssets = [
     '/',
     '/index.html',
     '/restaurant.html',
-    '/css/main.css',
+    '/css/styles.css',
     '/js/dbhelper.js',
     '/js/main.js',
     '/js/restaurant_info.js',
-    '/img/*',
+    '/img/',
     '/js/register.js',
     '//normalize-css.googlecode.com/svn/trunk/normalize.css',
     'https://fonts.googleapis.com/css?family=Roboto:300,400,500'
