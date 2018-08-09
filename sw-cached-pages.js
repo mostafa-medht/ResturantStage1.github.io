@@ -10,7 +10,6 @@ const cacheAssets = [
     '/js/restaurant_info.js',
     '/img/',
     '/js/register.js',
-    '//normalize-css.googlecode.com/svn/trunk/normalize.css',
     'https://fonts.googleapis.com/css?family=Roboto:300,400,500'
 
 ]
